@@ -1,0 +1,8 @@
+
+# *.md
+
+!ignore/a.md
+
+index.html
+
+ignore/**
