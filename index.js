@@ -3,3 +3,5 @@ const sum = (a, b) => {
 };
 
 sum(3, 4);
+
+console.log("reg");
