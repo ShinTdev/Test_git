@@ -1,0 +1,1 @@
+- Ví dụ: mình đang edit lại file index.html đã tồn tại từ trước, và hiện tại nó đang xuất hiện ở khu vực Changes, mình thực hiện reset với --merge thì file này nó vẫn được giữ nguyên những thay đổi ở khu vực Changes. --hard thì nó xóa luôn những thay đổi đó nên nếu không cẩn thận có thể làm mất code.
